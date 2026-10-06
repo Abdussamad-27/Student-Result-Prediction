@@ -138,15 +138,7 @@ result
 - Improve the UI
 - Deploy the application online
 
-## 👥 Contributors
 
-**Your Name** – Machine Learning & Flask Development
-
-**Friend 1** – Project contribution
-
-**Friend 2** – Project contribution
-
-> Replace the contributor names and contributions with your actual team details.
 
 ## 📄 License
 
